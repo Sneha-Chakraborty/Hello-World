@@ -26,6 +26,6 @@ while (You Live):
   . Thrive! ;
 
 
-In a Nutshell,
+*In a Nutshell*,
 
-Invent . Code . Repeat .
+*Invent . Code . Repeat*.
