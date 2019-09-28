@@ -28,4 +28,6 @@ while (You Live):
 
 *In a Nutshell*,
 
-*Invent . Code . Repeat*.
+*Develop . Code . Repeat*.
+
+--Sneha (Xeni)
