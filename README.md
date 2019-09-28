@@ -24,3 +24,8 @@ while (You Live):
   . Conquer ;
   
   . Thrive! ;
+
+
+In a Nutshell,
+
+Invent . Code . Repeat .
