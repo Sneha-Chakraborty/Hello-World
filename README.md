@@ -17,8 +17,10 @@ while (You Live):
   
   . Solve, Code ;
   
-  .Explore ;
+  . Explore ;
   
-  . Be Innovative ;
+  . Innovate ;
+  
+  . Conquer ;
   
   . Thrive! ;
